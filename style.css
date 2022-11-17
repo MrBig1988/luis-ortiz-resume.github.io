@@ -1,0 +1,85 @@
+
+
+
+header {
+    text-align: center;
+    width: 100%;
+}
+
+header hr {
+    width: 90%;
+}
+
+.header-title {
+    background-color: rgba(176, 190, 201, 1);
+    width: 60%;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+.header-title h1 {
+    font-size: 70px;
+}
+
+.header-title h3 {
+    font-size: 40px;
+    margin-top: -15px;
+}
+
+.location-contact {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    display: block;
+}
+
+.location-contact h3 {
+    display: inline-block;
+    width: 30%;
+    font-size: 30px;
+}
+
+.about-me {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 100%;
+    text-align: center
+}
+
+.about-me p {
+    width: 60%;
+    margin: auto;
+}
+
+.icons {
+    margin-top: 40px;
+    margin-bottom: 40px; 
+}
+
+a {
+    text-decoration: none;
+}
+
+.linked {
+    color: blue;
+}
+
+.portfolio {
+    color: #F8D775;
+}
+
+.git {
+    color: black;
+}
+
+table {
+    width: 50%;
+    margin: auto;
+    vertical-align: top;
+    line-height: 24px;
+}
+
+.education {
+    vertical-align: top;
+    width: 50%;
+}
+
